@@ -4,7 +4,7 @@ Save Smart is a one stop shop for organizing all your budgeting needs. This appl
 ## Links
 - Client Application:
 - API:
-- Front-End Repository:
+- Front-End Repository: <https://github.com/Tristan-Tompkins/B.O.A.B-Client>
 
 ## Technologies Used
 #### Front-End:
