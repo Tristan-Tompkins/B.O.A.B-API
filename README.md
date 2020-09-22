@@ -18,7 +18,7 @@ B.O.A.B is a one stop shop for organizing all your budgeting needs. "Trust you m
 - Mongoose
 
 ## Entity Relationship Diagram
-![ERD]
+![ERD](https://i.imgur.com/RP2FsV1.png)
 
 ## API End Points
 | Verb   | URI Pattern               | Controller#Action |
